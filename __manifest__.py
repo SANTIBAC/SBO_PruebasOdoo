@@ -6,7 +6,7 @@
     'version': '0.2',
     'description': """Este módulo nos permitirá gestionar la asignación de servicios""",
     'author': 'Santiago Bacale Ortiz',
-    'company': 'electricistasensevilla.com',
+    'company': 'Santiago Bacale Ortiz',
     'website': 'http://www.electricistasensevilla.com',
     'category': 'Tools',
     'depends': ['base'],
